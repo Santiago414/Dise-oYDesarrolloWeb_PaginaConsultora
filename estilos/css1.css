@@ -171,7 +171,14 @@ li{
     margin-left: auto;
     margin-right: auto;
 }
-
+.foto-carlos{
+    padding-top: 5%;
+    width: 90px;         
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 @media all and (max-width: 840px) { 
   
     input:checked  ~ ul{   
