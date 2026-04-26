@@ -39,7 +39,7 @@ p{
 
 
 body{
-    background-color: #bdbdbd;
+    background-color: #cccccc;
 }
 header{
     background-color: #003f7e;
@@ -163,6 +163,14 @@ li{
     font-size: 18px;
 }
 
+.imagenesintegrantes{
+    padding-top: 5%;
+    width: 120px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 @media all and (max-width: 840px) { 
   
