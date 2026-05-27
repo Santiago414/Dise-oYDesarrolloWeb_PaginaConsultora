@@ -33,8 +33,25 @@ p{
 
 }
 
+.contenedor-boton {
+    text-align: center;
+    margin: 30px 0;   
+}
 
+.boton-pdf {
+    background-color: #006eff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+.boton-pdf:hover {
+    background-color: #006b3a;
+    color: white;
+}
 
 
 body{
